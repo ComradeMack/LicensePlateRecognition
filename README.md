@@ -5,3 +5,9 @@ this is a simple version of License Plate Recognition from https://www.pyimagese
 Our implementation is provided by
 Jirawat Kusalangkurwat (lukepanter)
 Chanat Tanasarnsopaporn (ComradeMack)
+
+For our simple explanation of the model, please read License Plate Recognition Poster and Slide.
+
+For more detailed explanation, coming soon!
+
+
